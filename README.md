@@ -8,11 +8,11 @@
 
 ## I'm a Husband, Developer, and Team Lead at Mega now.
 
-- 🔭 I love programming and thinking
-- 🌱 I’m currently learning everything 🤣
-- 👯 <span style="color: #047809;font-weight:bold">I’m looking for 2 ~ 3 Intermediate iOS devs and 2 ~ 3 Senior iOS devs now</span>
-- 👻 Algorithm and Data Structure help me thinking smart
-- 👺 Hope the pandemic will end soon
+- 🔭  I love programming and thinking
+- 🌱  I’m currently learning everything 🤣
+- 👯  <span style="color: #2de05d;font-weight:bold">**I’m looking for 2 ~ 3 Intermediate iOS devs and 2 ~ 3 Senior iOS devs now**</span>
+- 👻  Algorithm and Data Structure help me thinking smart
+- 👺  Hope the pandemic will end soon
 
 
 ### Connect with me:
