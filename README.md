@@ -1,6 +1,9 @@
-### Hi there, I'm Harry Yan - This is my [Harryyan.github.io] 👨‍💻
+### Hi there, I'm Harry Yan - This is my [blog] 👨‍💻
 
-[![Website](https://img.shields.io/badge/Harry.io-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://harryyan.github.io/)
+[![Website](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://swift.org/blog/)
+[![Website](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](https://swift.org/blog/)
+[![Website](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://swift.org/blog/)
+[![Website](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://swift.org/blog/)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
