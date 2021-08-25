@@ -1,6 +1,7 @@
-### Hi there, I'm Harry Yan- aka [Ximin Yan][Blog] 👋
+### Hi there, I'm Harry Yan - aka [Ximin Yan][website] 👋
 
-[![Blog](https://harryyan.github.io/)](https://harryyan.github.io/)
+[![Website](https://harryyan.github.io/)](https://harryyan.github.io/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
