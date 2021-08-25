@@ -6,18 +6,17 @@
 [![Website](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Website](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Husband, Developer, and Team Lead at Mega now.
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 I love programming and thinking
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 👯 I’m looking for 2 ~ 3 Intermediate iOS devs and 2 ~ 3 Senior iOS devs now
+- 👻 Algorithm and Data Structure help me thinking smart
+- 👺 Hope the pandemic will end soon
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" />][blog]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/harry-yan-7520a331/" />][linkedin]
+[<img align="left" alt="harryyan | LinkedIn" width="22px" src="https://www.linkedin.com/in/harry-yan-7520a331/" />][linkedin]
 
 <br />
 
