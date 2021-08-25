@@ -1,9 +1,10 @@
 ### Hi there, I'm Harry Yan - This is my [blog] 👨‍💻
 
 [![Website](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://swift.org/blog/)
-[![Website](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](https://swift.org/blog/)
-[![Website](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://swift.org/blog/)
-[![Website](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://swift.org/blog/)
+[![Website](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/tools/sdk)
+[![Website](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](https://developer.android.com/kotlin?gclid=CjwKCAjw1JeJBhB9EiwAV612yyBJK6NE-Iltekll2TQW2PnS4ijhe8gDua3nAh7o--FWFoWabiKBwxoCyfEQAvD_BwE&gclsrc=aw.ds)
+[![Website](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![Website](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
