@@ -1,4 +1,4 @@
-### Hi there, I'm Harry Yan - This is my [blog] 👨‍💻
+### Hi there, I'm Harry Yan - this is my [blog] 👨‍💻
 
 [![Website](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://swift.org/blog/)
 [![Website](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/tools/sdk)
@@ -10,7 +10,7 @@
 
 - 🔭 I love programming and thinking
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking for 2 ~ 3 Intermediate iOS devs and 2 ~ 3 Senior iOS devs now
+- 👯 <span style="background-color: #11bd56;font-weight:bold">I’m looking for 2 ~ 3 Intermediate iOS devs and 2 ~ 3 Senior iOS devs now</span>
 - 👻 Algorithm and Data Structure help me thinking smart
 - 👺 Hope the pandemic will end soon
 
