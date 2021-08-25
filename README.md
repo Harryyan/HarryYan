@@ -1,6 +1,6 @@
-### Hi there, I'm Harry Yan - aka [Ximin Yan][Blog] 👋
+### Hi there, I'm Harry Yan - This is my [Blog]🤖
 
-[![Blog](https://harryyan.github.io/)](https://harryyan.github.io/)
+[![blog](https://harryyan.github.io/)](https://harryyan.github.io/)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
