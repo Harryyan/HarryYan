@@ -1,12 +1,16 @@
-name: Profile Readme Development Stats
-on: push
+name: Waka Readme
 
-# on:
-#   schedule:
-#     - cron: "*/60 * * * *"
+on: push
+  # workflow_dispatch:
+  # schedule:
+  #   # Runs at 12am UTC
+  #   - cron: "0 0 * * *"
+
 jobs:
-  update-gist:
+  update-readme:
+    name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - name: Profile Readme Development Stats
-        uses: anmol098/waka-readme-stats@V3
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
