@@ -1,6 +1,6 @@
-### Hi there, I'm Harry Yan - This is my [Blog] 👨‍💻
+### Hi there, I'm Harry Yan - This is my [Harryyan.github.io] 👨‍💻
 
-[![blog](https://harryyan.github.io/)](https://harryyan.github.io/)
+[![Website](https://img.shields.io/badge/Harry.io-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://harryyan.github.io/)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
