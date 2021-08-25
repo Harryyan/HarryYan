@@ -1,4 +1,4 @@
-### Hi there, I'm Harry Yan - This is my [Blog]🤖
+### Hi there, I'm Harry Yan - This is my [Blog] 👨‍💻
 
 [![blog](https://harryyan.github.io/)](https://harryyan.github.io/)
 
@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/bootstrap.svg" />][blog]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" />][blog]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/harry-yan-7520a331/" />][linkedin]
 
 <br />
@@ -89,7 +89,7 @@
 
 </details>
 
-[Blog]: https://harryyan.github.io/
+[blog]: https://harryyan.github.io/
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
