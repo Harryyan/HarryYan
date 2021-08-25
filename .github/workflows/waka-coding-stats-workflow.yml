@@ -1,0 +1,12 @@
+name: Profile Readme Development Stats
+on: push
+
+# on:
+#   schedule:
+#     - cron: "*/60 * * * *"
+jobs:
+  update-gist:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Profile Readme Development Stats
+        uses: anmol098/waka-readme-stats@V3
