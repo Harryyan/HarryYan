@@ -25,7 +25,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 19 August, 2021 - 25 August, 2021
+
+Python     1 hr 26 mins    ███████████████████▒░░░░░   77.22 % 
+YAML       14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+Markdown   10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
 ```
 <!--END_SECTION:waka-->
 
