@@ -23,11 +23,11 @@
 #### Coding Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-306-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-311-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 484 Contributions in the Year 2021
+> 🏆 486 Contributions in the Year 2021
  > 
 > 📦 611.1 kB Used in Github's Storage 
  > 
@@ -101,7 +101,7 @@ Dart                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 28/08/2021
+ Last Updated on 29/08/2021
 <!--END_SECTION:waka-->
 
 ## Blog Posts
