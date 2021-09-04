@@ -4,7 +4,7 @@
 [![Website](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Website](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-## Hi there <a href="https://harryyan.github.io"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>,  I'm Harry Yan - this is my [blog] 👨‍💻
+## Kia Ora <a href="https://harryyan.github.io"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>,  I'm Harry Yan - this is my [blog] 👨‍💻
 
 ## I'm a Husband, Developer, and Team Lead at Mega now.
 
