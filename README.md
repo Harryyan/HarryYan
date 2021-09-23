@@ -6,7 +6,7 @@
 
 ## Kia Ora <a href="https://harryyan.github.io"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>,  I'm Harry Yan - this is my [blog] 👨‍💻
 
-## I'm a Husband, Developer, and work at Plexure now.
+## I'm a Husband, Developer, and will work at Mega as the Team Lead soon.
 
 - 🔭 &nbsp; I love programming and thinking
 - 🌱 &nbsp; I’m currently learning everything 🤣
