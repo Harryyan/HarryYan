@@ -106,9 +106,10 @@ Dart                     2 repos             ██░░░░░░░░░�
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Swift Concurrency 初探](https://harryyan.github.io/2021/11/21/Swift-Concurrency-%E5%88%9D%E6%8E%A2/)
 - [Swift函数派发机制](https://harryyan.github.io/2021/08/27/Swift%E5%87%BD%E6%95%B0%E6%B4%BE%E5%8F%91%E6%9C%BA%E5%88%B6/)
-- [iOS App启动的奥秘](https://harryyan.github.io/2021/04/20/iOS%20App%E5%90%AF%E5%8A%A8%E7%9A%84%E5%A5%A5%E7%A7%98/)
 - [《格鲁夫给经理人的第一课》读书笔记](https://harryyan.github.io/2020/07/23/%E6%A0%BC%E9%B2%81%E5%A4%AB%E7%BB%99%E7%BB%8F%E7%90%86%E4%BA%BA%E7%9A%84%E7%AC%AC%E4%B8%80%E8%AF%BE%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/)
+- [iOS App启动的奥秘](https://harryyan.github.io/2019/04/20/iOS%20App%E5%90%AF%E5%8A%A8%E7%9A%84%E5%A5%A5%E7%A7%98/)
 - [开篇](https://harryyan.github.io/2019/04/19/%E5%BC%80%E7%AF%87%E5%AF%84%E8%AF%AD/)
 <!-- BLOG-POST-LIST:END -->
 
