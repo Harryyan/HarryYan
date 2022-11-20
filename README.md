@@ -10,7 +10,7 @@
 
 - 🔭 &nbsp; I love programming and thinking
 - 🌱 &nbsp; I’m currently learning everything 🤣
-- 👯 &nbsp; **I’m looking for 1-2 Intermediate iOS devs and 1-2 Senior iOS devs now**
+- 👯 &nbsp; **I’m looking for multiple iOS Engineers now, we are keepling hiring!!!**
 - 👻 &nbsp; Algorithm and Data Structure help me thinking smart
 - 👺 &nbsp; Hope the pandemic will end soon
 
