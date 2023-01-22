@@ -9,7 +9,7 @@
 ## I'm a Husband, Developer, and Team Lead at [Mega](https://mega.io/) now.
 
 - 🔭 &nbsp; I love programming and thinking
-- 🌱 &nbsp; I’m currently learning everything 🤣
+- 🌱 &nbsp; I’m currently learning Leadership Communication
 - 👯 &nbsp; **I’m looking for multiple iOS Engineers now, we are keepling hiring!!!**
 - 👻 &nbsp; Algorithm and Data Structure help me thinking smart
 - 👺 &nbsp; Hope the pandemic will end soon
