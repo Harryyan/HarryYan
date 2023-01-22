@@ -23,7 +23,7 @@
 #### Coding Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=harryyan1238&theme=dark)](https://git.io/streak-stats)
 
 **🐱 My GitHub Data** 
 
