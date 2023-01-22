@@ -23,7 +23,7 @@
 #### Coding Stats
 
 <!--START_SECTION:waka-->
-[![GitHub Streak](https://github.com/Harryyan?user=harryyan&theme=dark)](https://github.com/Harryyan)
+![Dong Yuanwai's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongyuanwai&show_icons=true)
 
 **🐱 My GitHub Data** 
 
