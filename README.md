@@ -23,7 +23,7 @@
 #### Coding Stats
 
 <!--START_SECTION:waka-->
-[![GitHub Streak](https://github.com/Harryyan?user=harryyan1238&theme=dark)](https://github.com/Harryyan)
+[![GitHub Streak](https://github.com/Harryyan?user=harryyan&theme=dark)](https://github.com/Harryyan)
 
 **🐱 My GitHub Data** 
 
