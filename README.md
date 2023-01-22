@@ -21,9 +21,9 @@
 <br />
 
 #### Coding Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=HarryYan&theme=dark)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-[![GitHub Streak](https://streak-stats.demolab.com?user=HarryYan&theme=dark)](https://git.io/streak-stats)
 
 **🐱 My GitHub Data** 
 
