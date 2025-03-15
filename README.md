@@ -14,7 +14,7 @@
 <br />
 
 #### Coding Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=HarryYan&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Harryyan&theme=dark)](https://git.io/streak-stats)
 
 ## Blog Posts
 
