@@ -6,14 +6,7 @@
 
 ## Kia Ora <a href="https://harryyan.github.io"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>,  I'm Harry Yan - this is my [blog] 👨‍💻
 
-## I'm a Husband, Developer, and Team Lead at [Mega](https://mega.io/) now.
-
-- 🔭 &nbsp; I love programming and thinking
-- 🌱 &nbsp; I’m currently learning Leadership Communication
-- 👯 &nbsp; **I’m looking for multiple iOS Engineers now, we are keepling hiring!!!**
-- 👻 &nbsp; Algorithm and Data Structure help me thinking smart
-- 👺 &nbsp; Hope the pandemic will end soon
-
+## I'm a Husband, Developer, and iOS Engineer Manager at [Mega](https://mega.io/) now.
 
 ### My LinkedIn:
 [<img align="left" alt="harry-yan-7520a331/ | LinkedIn" width="130" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
