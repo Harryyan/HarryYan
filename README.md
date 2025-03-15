@@ -14,7 +14,7 @@
 <br />
 
 #### Coding Stats
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Harryyan&theme=dark&short_numbers=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=Harryyan&theme=dark&short_numbers=true" alt="GitHub Streak" /></a>
 
 ## Blog Posts
 
